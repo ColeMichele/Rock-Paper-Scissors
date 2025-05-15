@@ -10,7 +10,7 @@ body {
 .selection {
     background: none;
     border: none;
-    outline: none;
+    outline: black;
     cursor: pointer;
     font-size: 4rem;
     transition: 100ms;
